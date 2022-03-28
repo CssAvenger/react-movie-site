@@ -5,7 +5,7 @@ import Header from "./components/Header";
 
 
 /* API URL */
-const API_URL = `http://www.omdbapi.com?apikey=10317c85`;
+const API_URL = `https://www.omdbapi.com?apikey=10317c85`;
 /* 
   MAIN MOVIE APP FUNCTION
 */
